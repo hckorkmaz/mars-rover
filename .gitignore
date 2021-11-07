@@ -1,0 +1,12 @@
+/.classpath
+/.project
+/.settings
+/.idea
+/*.iml
+/*.ids
+/*.ipr
+/*.iws
+/target
+/.DS_Store
+# Project exclude paths
+/out/
